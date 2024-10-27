@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XPD:PROJECT xmlns:XPD="http://www.staruml.com" version="1">
+<XPD:HEADER>
+<XPD:SUBUNITS>
+</XPD:SUBUNITS>
+<XPD:PROFILES>
+</XPD:PROFILES>
+</XPD:HEADER>
+<XPD:BODY>
+<XPD:OBJ name="DocumentElement" type="UMLProject" guid="xoT4VG8qMUacqaZ8NKW88AAA">
+<XPD:ATTR name="Title" type="string">Untitled</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedElements[0]" type="UMLSubsystem" guid="stlkIykDs0CMnP7iS7FNCgAA">
+<XPD:ATTR name="Name" type="string">AdministraciondeDatosdeIncidencia</XPD:ATTR>
+<XPD:REF name="Namespace">xoT4VG8qMUacqaZ8NKW88AAA</XPD:REF>
+<XPD:ATTR name="#OwnedCollaborations" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedCollaborations[0]" type="UMLCollaboration" guid="PEWldZkIM0SMqPDF2eLm0wAA">
+<XPD:ATTR name="Name" type="string">Collaboration1</XPD:ATTR>
+<XPD:REF name="RepresentedClassifier">stlkIykDs0CMnP7iS7FNCgAA</XPD:REF>
+<XPD:ATTR name="#Interactions" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Interactions[0]" type="UMLInteraction" guid="4q17t/yE90mAY0qgXqUQLAAA">
+<XPD:ATTR name="Name" type="string">Interaction1</XPD:ATTR>
+<XPD:REF name="Context">PEWldZkIM0SMqPDF2eLm0wAA</XPD:REF>
+<XPD:ATTR name="#OwnedDiagrams" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="OwnedDiagrams[0]" type="UMLCollaborationRoleDiagram" guid="1YpTGrHzCUK64g2Yo4TnYwAA">
+<XPD:ATTR name="Name" type="string">CollaborationRoleDiagram1</XPD:ATTR>
+<XPD:REF name="DiagramOwner">4q17t/yE90mAY0qgXqUQLAAA</XPD:REF>
+<XPD:OBJ name="DiagramView" type="UMLCollaborationRoleDiagramView" guid="uH6DzHGoP0CkHZaOp76dTgAA">
+<XPD:REF name="Diagram">1YpTGrHzCUK64g2Yo4TnYwAA</XPD:REF>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:OBJ>
+</XPD:BODY>
+</XPD:PROJECT>
